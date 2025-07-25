@@ -28,3 +28,4 @@ This is a simple, responsive **E-Commerce Web Application** built using the **ME
   password: 'gladwin123',
   isPrime: true
 }
+![Login Page](./EcomLoginPage.png)
