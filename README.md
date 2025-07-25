@@ -30,29 +30,4 @@ This is a simple, responsive **E-Commerce Web Application** built using the **ME
 }
 ## 📸 Screenshots
 
-### 🔐 Login Page
-![Home Page](./my-app/public/Images/LoginPage.png)
-
-### 🏠 Home Page
-![Home Page](./my-app/public/Images/EcomHomePage.png)
-
-### 🛍️ All Products Page
-
-Default View:  
-![All Products](./my-app/public/Images/EComAllProductsPage.png)
-
-Sorted: High → Low  
-![High to Low](./my-app/public/Images/EcomAllProducts(high-Low).png)
-
-Sorted: Low → High  
-![Low to High](./my-app/public/Images/EcomAllProducts(Low-High).png)
-
-### 🛒 Empty Cart
-![Cart Empty](./my-app/public/Images/EcomCartEmptyPage.png)
-
-### ⭐ Prime-Only Deals
-![Prime Deals](./my-app/public/Images/EcomExclusivePrimeDeal.png)
-
-### 🙅‍♂️ Non-Prime User Restriction
-![Non-Prime Blocked](./my-app/public/Images/EcomNonPrimeUsers.png)
-
+**The Screenshots are in the Images Folder**
