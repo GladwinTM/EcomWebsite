@@ -31,10 +31,10 @@ This is a simple, responsive **E-Commerce Web Application** built using the **ME
 ## 📸 Screenshots
 
 ### 🔐 Login Page
-![Login Page](./public/Images/EcomLoginPage.png)
+![Login Page](./my-app/public/Images/EcomLoginPage.png)
 
 ### 🏠 Home Page
-![Home Page](./public/Images/EcomHomePage.png)
+![Home Page](./my-app/public/Images/EcomHomePage.png)
 
 ### 🛍️ All Products Page
 
