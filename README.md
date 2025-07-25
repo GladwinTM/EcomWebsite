@@ -31,28 +31,28 @@ This is a simple, responsive **E-Commerce Web Application** built using the **ME
 ## 📸 Screenshots
 
 ### 🔐 Login Page
-![Login Page](./Images/EcomLoginPage.png)
+![Login Page](./public/Images/EcomLoginPage.png)
 
 ### 🏠 Home Page
-![Home Page](./Images/EcomHomePage.png)
+![Home Page](./public/Images/EcomHomePage.png)
 
 ### 🛍️ All Products Page
 
 Default View:  
-![All Products](./Images/EComAllProductsPage.png)
+![All Products](./public/Images/EComAllProductsPage.png)
 
 Sorted: High → Low  
-![High to Low](./Images/EcomAllProducts(high-Low).png)
+![High to Low](./public/Images/EcomAllProducts(high-Low).png)
 
 Sorted: Low → High  
-![Low to High](./Images/EcomAllProducts(Low-High).png)
+![Low to High](./public/Images/EcomAllProducts(Low-High).png)
 
 ### 🛒 Empty Cart
-![Cart Empty](./Images/EcomCartEmptyPage.png)
+![Cart Empty](./public/Images/EcomCartEmptyPage.png)
 
 ### ⭐ Prime-Only Deals
-![Prime Deals](./Images/EcomExclusivePrimeDeal.png)
+![Prime Deals](./public/Images/EcomExclusivePrimeDeal.png)
 
 ### 🙅‍♂️ Non-Prime User Restriction
-![Non-Prime Blocked](./Images/EcomNonPrimeUsers.png)
+![Non-Prime Blocked](./public/Images/EcomNonPrimeUsers.png)
 
