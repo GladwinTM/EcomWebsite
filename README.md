@@ -31,7 +31,7 @@ This is a simple, responsive **E-Commerce Web Application** built using the **ME
 ## 📸 Screenshots
 
 ### 🔐 Login Page
-<img width="700" alt="Login Page" src="https://github.com/user-attachments/assets/your-products-default-link">
+![Home Page](./my-app/public/Images/LoginPage.png)
 
 ### 🏠 Home Page
 ![Home Page](./my-app/public/Images/EcomHomePage.png)
