@@ -28,7 +28,31 @@ This is a simple, responsive **E-Commerce Web Application** built using the **ME
   password: 'gladwin123',
   isPrime: true
 }
+## 📸 Screenshots
+
+### 🔐 Login Page
 ![Login Page](./Images/EcomLoginPage.png)
+
+### 🏠 Home Page
 ![Home Page](./Images/EcomHomePage.png)
-![All Products Page](./Images/EComAllProductsPage.png)
-![Low-High Products Page](./Images/EcomAPage.png)
+
+### 🛍️ All Products Page
+
+Default View:  
+![All Products](./Images/EComAllProductsPage.png)
+
+Sorted: High → Low  
+![High to Low](./Images/EcomAllProducts(high-Low).png)
+
+Sorted: Low → High  
+![Low to High](./Images/EcomAllProducts(Low-High).png)
+
+### 🛒 Empty Cart
+![Cart Empty](./Images/EcomCartEmptyPage.png)
+
+### ⭐ Prime-Only Deals
+![Prime Deals](./Images/EcomExclusivePrimeDeal.png)
+
+### 🙅‍♂️ Non-Prime User Restriction
+![Non-Prime Blocked](./Images/EcomNonPrimeUsers.png)
+
