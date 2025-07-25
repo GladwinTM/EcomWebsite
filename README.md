@@ -17,6 +17,10 @@ This is a simple, responsive **E-Commerce Web Application** built using the **ME
 - ⚙️ React Router DOM for page navigation
 - 🎨 Clean and responsive UI
 
+## 📸 Screenshots
+
+**The Screenshots are in the Images Folder**
+
 ---
 
 ## 👨‍💻 Demo Users
@@ -28,6 +32,3 @@ This is a simple, responsive **E-Commerce Web Application** built using the **ME
   password: 'gladwin123',
   isPrime: true
 }
-## 📸 Screenshots
-
-**The Screenshots are in the Images Folder**
