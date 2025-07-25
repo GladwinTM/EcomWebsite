@@ -39,20 +39,20 @@ This is a simple, responsive **E-Commerce Web Application** built using the **ME
 ### 🛍️ All Products Page
 
 Default View:  
-![All Products](./public/Images/EComAllProductsPage.png)
+![All Products](./my-app/public/Images/EComAllProductsPage.png)
 
 Sorted: High → Low  
-![High to Low](./public/Images/EcomAllProducts(high-Low).png)
+![High to Low](./my-app/public/Images/EcomAllProducts(high-Low).png)
 
 Sorted: Low → High  
-![Low to High](./public/Images/EcomAllProducts(Low-High).png)
+![Low to High](./my-app/public/Images/EcomAllProducts(Low-High).png)
 
 ### 🛒 Empty Cart
-![Cart Empty](./public/Images/EcomCartEmptyPage.png)
+![Cart Empty](./my-app/public/Images/EcomCartEmptyPage.png)
 
 ### ⭐ Prime-Only Deals
-![Prime Deals](./public/Images/EcomExclusivePrimeDeal.png)
+![Prime Deals](./my-app/public/Images/EcomExclusivePrimeDeal.png)
 
 ### 🙅‍♂️ Non-Prime User Restriction
-![Non-Prime Blocked](./public/Images/EcomNonPrimeUsers.png)
+![Non-Prime Blocked](./my-app/public/Images/EcomNonPrimeUsers.png)
 
